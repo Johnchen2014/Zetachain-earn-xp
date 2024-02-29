@@ -1,5 +1,5 @@
 # Zetachain-earn-xp
-Zetachain софт на вывод с ОКХ, выполнение заданий, клейм поинтов и выводит баланса на адрес
+Zetachain 软件具有从 OKX 交易所提现资产、执行任务、领取积分以及将资产提现到指定地址的功能，并且可以将余额提现到指定地址。
 
 <img src="https://i.postimg.cc/XNxxYjr2/image.png" /> 
 
