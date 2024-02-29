@@ -43,7 +43,7 @@ AMOUNT_TO_WITHDRAW: tuple[float, float] = (2, 2.2) # Мин, Макс сумма
 # Прочее
 RPC: str = 'https://zetachain-evm.blockpi.network/v1/rpc/public'
 EXPLORER: str = 'https://zetachain.blockscout.com/tx/'
-REF_LINK: str = 'https://hub.zetachain.com/xp?code=YWRkcmVzcz0weGZjQUM1NGQ4QTc3NGM3OTAwOTJBNzJmNDFkYkYxOTFDODUzOGRCOUEmZXhwaXJhdGlvbj0xNzEwNTg0MjM0JnI9MHg4Mjg3MzBhMDhkZjIzMjcwODliMDEyMWI1YjU4MzA3NGYyNTRlN2UwZTQxMjMzOTcwZDA3YWEwN2ExOTNkYmMyJnM9MHg1YjMzNDQ4MjBjOGY5NTVhNWZiMWEzODdlN2ZlNjc3ZGNiMzE5Mjk2YjUzZTIxYTZjODc5OTExMzhlN2Q1YThhJnY9Mjg%3D'
+REF_LINK: str = 'https://hub.zetachain.com/'
 
 # OKX API (keep it secret)
 OKX_API_KEY: str = ''
